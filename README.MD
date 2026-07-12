@@ -229,7 +229,7 @@ pip install -r requirements.txt
 Run Streamlit
 
 ```bash
-streamlit run Home.py
+streamlit run app.py
 ```
 
 ---
