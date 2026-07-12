@@ -239,7 +239,7 @@ streamlit run app.py
 Streamlit Cloud:
 
 ```
-https://sales-forecasting-dashboard-mvpyhsng6ehygm2ioylzvh.streamlit.app/
+https://sales-forecasting-dashboard-ebpvwqgnnzvzmcmmphiqla.streamlit.app/
 ```
 
 ---
