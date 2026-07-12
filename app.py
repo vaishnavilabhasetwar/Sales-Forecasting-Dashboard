@@ -282,7 +282,7 @@ Raw Sales Data  ➡  Data Cleaning  ➡  Exploratory Data Analysis  ➡  Forecas
 st.markdown(
 """
 <div class='footer-container'>
-    Developed with ❤️ by <span class='footer-accent'>Vaishnavi Labhasetwar</span><br>
+    Developed with by <span class='footer-accent'>Vaishnavi Labhasetwar</span><br>
     <span style='font-size: 12px; color: #4B5563; margin-top: 5px; display: block;'>Machine Learning Sales Forecasting Dashboard • All Rights Reserved © 2026</span>
 </div>
 """, unsafe_allow_html=True)
