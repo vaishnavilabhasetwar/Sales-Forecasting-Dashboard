@@ -239,7 +239,7 @@ streamlit run app.py
 Streamlit Cloud:
 
 ```
-Deployment in progress...
+https://sales-forecasting-dashboard-mvpyhsng6ehygm2ioylzvh.streamlit.app/
 ```
 
 ---
